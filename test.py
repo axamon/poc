@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 11 00:10:34 2016
 
-@author: evangelion
+@author: Alberto Bregliano
 """
 import os
 import hvac
